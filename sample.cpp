@@ -1,5 +1,4 @@
 #include "wav_file_writer_beta.h"
-#include<iostream>
 
 using namespace std;
 
@@ -16,5 +15,3 @@ int main() {
 
 	return 0;
 }
-
-
